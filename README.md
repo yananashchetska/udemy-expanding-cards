@@ -1,0 +1,1 @@
+- you can tap on each section to expand
